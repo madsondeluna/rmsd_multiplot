@@ -7,7 +7,7 @@ Este repositório contém um script Python para comparar a evolução do RMSD (R
 - **Leitura de arquivos `.xvg`**: O código lê os arquivos de dados, ignorando comentários e metadados, e extrai as colunas de tempo e RMSD.
 - **Média Móvel**: Calcula a média móvel para suavizar as flutuações do RMSD ao longo do tempo.
 - **Visualização**: Plota gráficos para cada arquivo de dados, com o RMSD e a média móvel sobrepostos, utilizando cores diferentes para cada gráfico. Os gráficos são dispostos em uma grade de 4 linhas e 6 colunas.
-- **Salvamento de Gráficos**: O gráfico final é salvo em alta resolução (300 DPI) no formato PNG.
+- **Salvar gráficos**: O gráfico final é salvo em alta resolução (300 DPI) no formato PNG.
 
 ## Requisitos
 
