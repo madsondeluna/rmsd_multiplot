@@ -26,5 +26,3 @@ pip install pandas numpy matplotlib
 ## Aviso
 
 Os arquivos `.xvg` disponíveis neste repositório são meramente ilustrativos.
-
-<h1></h1>
